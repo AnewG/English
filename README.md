@@ -18,7 +18,7 @@ English
 
 `Eating` is a pleasure.
 
-动词不定式（infinitive）动词不定式是动词的一种不带词形变化从而不指示人称数量时态的形式。不被词形变化所局限。属于非谓语动词 
+动词不定式（infinitive）动词不定式是动词的一种不带词形变化从而不指示人称数量时态的形式。属于非谓语动词 
 
 `To know` is easier than to practice.
 
