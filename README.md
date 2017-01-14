@@ -38,6 +38,7 @@ correct:
     To see him is my purpose of coming here (To see为不定式)
 
 ---------------------
+
 不定式或动名词作主语，主语往往太长，通常用代词 It 作形式主语。真正主语移至句尾。（动名词也改为不定式,不改也可）
 Example: Collecting stamps is one of his hobbies => It is one of his hobbies to collect stamps
 特殊情况：
@@ -45,6 +46,42 @@ Example: Collecting stamps is one of his hobbies => It is one of his hobbies to 
     There is no [use|sense|point] in + 动名词
     = It is [useless] to do ...
     = It is [of no use] to do ...
+    
+---------------------
+
+他不读书令我生气
+不可翻译为 He doesn't study makes me angry
+因为 He doesn't study 是句子，主语是 He。句子不能直接当主语。要变为从句。
+[That he doesn't study] makes me angry
+
+---------------------
+
+名词性从句分为：
+
+1.that 从句（前加that）
+
+2.whether 从句
+
+    Is he happy? (be动词)
+    whether he is happy
+    
+    Can he do it? (一般助动词)
+    whether he can do it
+    
+    Did he come? (do,does,did)
+    whether ＋ 主语还原 + 去掉助动词 + 动词根据人称时态变化
+    whether he came
+    
+3.疑问词引导 从句
+    
+    What is he doing? (be动词)
+    主语与be动词还原，保留疑问词 => What he is doing
+    
+    一般助动词同上
+    
+    What did he write? (do,does,did)
+    保留疑问词 ＋ 主语还原 + 去掉助动词 + 动词根据人称时态变化
+    What he wrote
 ```
 
 Old:
