@@ -38,8 +38,13 @@ correct:
     To see him is my purpose of coming here (To see为不定式)
 
 ---------------------
-不定式或动名词作主语，主语往往太长，通常用代词 It 作形式主语。真正主语移至句尾。（动名词也改为不定式）
+不定式或动名词作主语，主语往往太长，通常用代词 It 作形式主语。真正主语移至句尾。（动名词也改为不定式,不改也可）
 Example: Collecting stamps is one of his hobbies => It is one of his hobbies to collect stamps
+特殊情况：
+    It is [no use] + 动名词
+    There is no [use|sense|point] in + 动名词
+    = It is [useless] to do ...
+    = It is [of no use] to do ...
 ```
 
 Old:
