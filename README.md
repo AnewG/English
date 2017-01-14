@@ -22,6 +22,15 @@ order,ordain --------------------- ord(次序)
 state,establish,constitution ----- st(站)
 ```
 
+New:
+
+```
+主语省略 => 祈使句，句首为原形动词。 Example: Work hard => (You should) work hard
+祈使句变成否定形态时，要在原形动词前加 Don't。 Example: Don't be silly
+```
+
+Old:
+
 # 动词
 
 ## 不及物动词
