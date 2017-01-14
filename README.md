@@ -28,10 +28,18 @@ New:
 主语省略 => 祈使句，句首为原形动词。 Example: Work hard => (You should) work hard
 祈使句变成否定形态时，要在原形动词前加 Don't。 Example: Don't be silly
 
+---------------------
+
 动词绝不可直接当主语，一定要变成动名词或不定式短语，如此才可视为名词的对等语，作主语用。
-wrong: See him makes me angry (See为动词)
-correct: Seeing him makes me angry (Seeing为动名词)
-         To see him is my purpose of coming here (To see为不定式)
+wrong: 
+    See him makes me angry (See为动词)
+correct: 
+    Seeing him makes me angry (Seeing为动名词)
+    To see him is my purpose of coming here (To see为不定式)
+
+---------------------
+不定式或动名词作主语，主语往往太长，通常用代词 It 作形式主语。真正主语移至句尾。（动名词也改为不定式）
+Example: Collecting stamps is one of his hobbies => It is one of his hobbies to collect stamps
 ```
 
 Old:
