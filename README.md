@@ -24,6 +24,8 @@ state,establish,constitution ----- st(站)
 
 New:
 
+主语:
+
 ```
 主语省略 => 祈使句，句首为原形动词。 Example: Work hard => (You should) work hard
 祈使句变成否定形态时，要在原形动词前加 Don't。 Example: Don't be silly
@@ -92,6 +94,12 @@ Example: where to live, what to do
 表距离的地方副词短语作主语：
 from + 地方名词 + to + 地方名词
 From Shanghai to Beijing is about 1000 kilometers
+```
+
+动词:
+
+```
+test
 ```
 
 Old:
