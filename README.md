@@ -99,7 +99,8 @@ From Shanghai to Beijing is about 1000 kilometers
 动词:
 
 ```
-test
+有些不及物动词可变为及物动词，以同系名词作其宾语
+Example: dream a terrible dream, live a happy life
 ```
 
 Old:
