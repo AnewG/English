@@ -82,6 +82,16 @@ Example: Collecting stamps is one of his hobbies => It is one of his hobbies to 
     What did he write? (do,does,did)
     保留疑问词 ＋ 主语还原 + 去掉助动词 + 动词根据人称时态变化
     What he wrote
+    
+---------------------
+    
+名词短语作主语：
+疑问词 + 不定式
+Example: where to live, what to do
+
+表距离的地方副词短语作主语：
+from + 地方名词 + to + 地方名词
+From Shanghai to Beijing is about 1000 kilometers
 ```
 
 Old:
