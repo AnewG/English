@@ -101,6 +101,19 @@ From Shanghai to Beijing is about 1000 kilometers
 ```
 有些不及物动词可变为及物动词，以同系名词作其宾语
 Example: dream a terrible dream, live a happy life
+
+---------------------
+
+完全及物动词出现的形态
+He was writing a book             正在写一本书（be + 现在分词）
+The book was written by him       这本书是他写的（被动概念，be + 过去分词）
+A book was being written by him   有一本书正被他撰写（正在进行的被动状态，be + being + 过去分词）
+
+完全不及物动词出现的形态
+Something was happing 有事情正在发生（be + 现在分词）
+
+完全不及物动词之后可接副词等修饰该动词
+Something happened yesterday
 ```
 
 Old:
