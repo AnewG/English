@@ -31,6 +31,9 @@ New:
 祈使句变成否定形态时，要在原形动词前加 Don't。 Example: Don't be silly
 
 感叹句 => How,What 引导
+wrong: How a great man he is! (x)
+correct : How great a man he is!
+correct : What a great man he is!
 
 ---------------------
 
