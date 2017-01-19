@@ -35,6 +35,15 @@ wrong: How a great man he is! (x)
 correct : How great a man he is!
 correct : What a great man he is!
 
+疑问句：
+    一般疑问句：
+        不以What,When...为句首，可用Yes/No回答
+        Example: They aren't happy about it.
+                 Aren't they happy about it?
+                 Yes, they are(happy) / No, they aren't(unhappy)
+        Example: He left(一般过去时) early => Did he leave(原形) early?
+                 They enjoy dancing => Do they enjoy dancing?
+    特殊疑问句：
 ---------------------
 
 动词绝不可直接当主语，一定要变成动名词或不定式短语，如此才可视为名词的对等语，作主语用。
