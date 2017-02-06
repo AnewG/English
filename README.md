@@ -49,4 +49,26 @@ correct:
     To see him is my purpose of coming here (To see为不定式，不定式作主语一般表示意愿或未完成的事)
 不定式或动名词作主语时，往往主语太长。通常用代词 it 作形式主语，置于句首。真正主语移动至句尾，通常统一改为不定式。
 Example:
-    Collecting stamps is one of his hobbies => It is one of his hobbies to collect stamps.
+    Collecting stamps is one of his hobbies => It is one of his hobbies to collect stamps.
+下列情况是例外(要用动名词短语，不可用不定式)：
+    It is [no use] + 动名词短语。还包括 no sense, no point
+    
+====================
+
+一般句子不可作主语，可转为对应从句，如名词性从句
+wrong:
+    He doesn't study makes me angry.
+correct:
+    That he doesn't study makes me angry.
+    
+that从句 whether从句 疑问词引导从句
+      \     |      /
+   ____名词性从句包括______
+  /       |     |        \
+宾语从句 主语从句 表语从句 同位语从句
+
+a. that从句：句首冠以that。
+b. whether从句：由一般疑问句(用yes/no回答)变化而成。
+   Example:
+       Is he happy? => whether he is happy 问句有be动词，主语与be动词还原，前加 whether
+       问句有一般助动词(can, will, may...)，同上
