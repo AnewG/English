@@ -55,7 +55,7 @@ Example:
     
 ====================
 
-一般句子不可作主语，可转为对应从句，如名词性从句
+一般句子不可作主语，可转为对应从句，如名词性从句。转化后可作主语，宾语或be动词之后的表语。
 wrong:
     He doesn't study makes me angry.
 correct:
@@ -67,8 +67,21 @@ that从句 whether从句 疑问词引导从句
   /       |     |        \
 宾语从句 主语从句 表语从句 同位语从句
 
+转换方式：
 a. that从句：句首冠以that。
 b. whether从句：由一般疑问句(用yes/no回答)变化而成。
    Example:
-       Is he happy? => whether he is happy 问句有be动词，主语与be动词还原，前加 whether
+       Is he happy? => whether he is happy | 问句有be动词，主语与be动词还原，前加 whether
        问句有一般助动词(can, will, may...)，同上
+       Did he come? => whether he came     | do,does,did助动词，主语与助动词还原，再将助动词去掉。动词根据人称时态改变。
+c.疑问词从句：（when, why, what 等疑问词）
+   Example:
+       What is he doing? => what he is doing | 保留疑问词，主语与be动词还原
+       问句有一般助动词(can, will, may...)，同上
+       What did he write? => what he wrote   | do,does,did助动词，主语与助动词还原，再将助动词去掉。动词根据人称时态改变。
+       who, what, which 为疑问代词，可作主语。非上述情况，变为名词性从句时，结构不变。
+       
+使用方式：
+a.名词性从句作主语。一样可后置，用it代替。
+   Example:
+       [Where he lives] is still in doubt.
