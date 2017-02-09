@@ -84,4 +84,11 @@ c.疑问词从句：（when, why, what 等疑问词）
 使用方式：
 a.名词性从句作主语。一样可后置，用it代替。
    Example:
-       [Where he lives] is still in doubt.
+       [Where he lives] is still in doubt.
+b.作及物动词的宾语。及物动词,transitive verb(vt)。宾语,object(o)。
+   Example:
+       I | wonder | whether he has finished the work
+c.作介词的宾语。介词,preposition(p)。
+   Example:
+       wrong:   I am sure [of] that ...(x) 一般来说 that 从句不可作介词的宾语。
+       correct: I am sure [of] [the fact] that ... 用 the fact 作介词的宾语，that 从句成为 the fact 同位语。
