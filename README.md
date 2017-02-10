@@ -90,5 +90,15 @@ b.作及物动词的宾语。及物动词,transitive verb(vt)。宾语,object(o)
        I | wonder | whether he has finished the work
 c.作介词的宾语。介词,preposition(p)。
    Example:
-       wrong:   I am sure [of] that ...(x) 一般来说 that 从句不可作介词的宾语。
-       correct: I am sure [of] [the fact] that ... 用 the fact 作介词的宾语，that 从句成为 the fact 同位语。
+       wrong:   I am sure [of] that ...                             | 一般来说 that 从句不可作介词的宾语。
+       correct: I am sure [of] [the fact] that ...                  | 用 the fact 作介词的宾语，that 从句成为 the fact 同位语。
+       
+       wrong:   I am worried [about] that he plays around all day   | 错误
+       correct: I am worried [about] [his] [playing] around all day | 去除 that, that 后主语变成所有格，动词变动名词。若有助动词 do,does,did,will,would 去掉即可。doesn't => not
+       
+       wrong:   I am happy [about] that he [may] come
+       correct: I am happy [about] his [being likely to] come       | may -> be likely to, can -> be able to
+       
+       wrong:   I am [worried] [about] that he plays around all day
+       correct: I am [worried] that he plays around all day         | be + adj + that, 去掉介词，that从句在之后作为宾语从句。
+   惯用词是例外，in that, except that, dispite the fact that... 
