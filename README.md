@@ -102,3 +102,35 @@ c.作介词的宾语。介词,preposition(p)。
        wrong:   I am [worried] [about] that he plays around all day
        correct: I am [worried] that he plays around all day         | be + adj + that, 去掉介词，that从句在之后作为宾语从句。
    惯用词是例外，in that, except that, dispite the fact that... 
+
+====================
+
+名词短语(疑问词 + 不定式短语)也可作主语
+
+where to live
+what to do
+which to buy
+
+[Where to meet him] is not decided yet.
+
+表距离的地点副词短语也可作主语
+
+[From Shanghai to Beijing] is about 1000 kilometers.
+```
+
+动词：
+
+```
+动词分类：complete, incomplete。有些动词可同时属于不同分类。
+  c.vi 完全不及物动词, 不加宾语也完整
+  i.vi 不完全不及物动词
+  c.vt 完全及物动词，加宾语才完整
+  i.vt 不完全及物动词
+  d.v  授予动词 dative verb
+  
+部分不及物动词可变为及物动词，以同系名词作其宾语。
+  dream a terrible dream
+  
+出现的相关时态：
+  
+```
