@@ -122,8 +122,15 @@ which to buy
 
 ```
 动词分类：complete, incomplete。有些动词可同时属于不同分类。
-  c.vi 完全不及物动词, 不加宾语也完整
-  i.vi 不完全不及物动词
+  c.vi 完全不及物动词, 不加宾语也完整。其后可接副词 (adverb, adv) 或副词对等语 (介词短语, 状语从句) 修饰
+       Something happened [yesterday]
+       He died [in an accident] - 介词短语
+       He left [because he didn't want to see Mary again] - 状语从句
+  i.vi 不完全不及物动词。需要用表语( subjective complement, s.c ) 补充完整意思
+       He looks [happy]
+       He became [a good student]
+       My trouble is [that I have no money]
+       He is [in danger now]  - is 为 be 动词
   c.vt 完全及物动词，加宾语才完整
   i.vt 不完全及物动词
   d.v  授予动词 dative verb
@@ -132,5 +139,24 @@ which to buy
   dream a terrible dream
   
 出现的相关时态：
-  
+  a.主语 + 动词 + [宾语]
+  Example:
+      He [wrote] a book     - vt
+      Something [happened]  - vi
+      
+  b.主语 + be动词 + 动词现在分词 + [宾语/表语]
+  Example:
+      He was writing a book
+      Something was happening
+      主要表示某动作正在进行，也有的表示形容词。The girl is [charming]
+  
+  c.主语 + be动词 + 过去分词（past participle, pp）
+  Example:
+      The book was written by him  - vt
+      主要表示被动的概念，也有的表示形容词。The man is [tired]
+      
+  d.主语 + be动词 + being + 过去分词
+  Example:
+      A book was being written by him  - vt
+      主要表示正在进行的被动状态
 ```
