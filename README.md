@@ -131,15 +131,20 @@ which to buy
        He became [a good student]
        My trouble is [that I have no money]
        He is [in danger now]  - is 为 be 动词
-  c.vt 完全及物动词，加宾语才完整
-  i.vt 不完全及物动词
+  c.vt 完全及物动词，加宾语（可用名词,代词,名词性从句等等）才完整
+       He [stopped] (what he was doing) to talk to me when he saw me.
+       名词性从句若是that, 可省略。
+  i.vt 不完全及物动词，加宾语还不够，要加补语 (complement)
+       He made a kite (完全vt)
+       He [made] Mary [happy] (不完全vt)
+       He [let] me [in] in为介副词
   d.v  授予动词 dative verb
   
 部分不及物动词可变为及物动词，以同系名词作其宾语。
   dream a terrible dream
   
 出现的相关时态：
-  a.主语 + 动词 + [宾语]
+  a.主语 + 动词 + [宾语/表语]
   Example:
       He [wrote] a book     - vt
       Something [happened]  - vi
@@ -159,4 +164,21 @@ which to buy
   Example:
       A book was being written by him  - vt
       主要表示正在进行的被动状态
+      
+  e.seem 后用不定式短语做表语，若是 to be，可省略。
+  Example:
+      wrong: He seems knowing it
+      correct: He seems to know it
+      
+  f.感官动词(look,sound,smell...)后用形容词做表语。若要接名词，需加 like 等介词。也可当完全及物动词，用名词作宾语
+  Example:
+      wrong: It sounds [a good idea]
+      correct: It sounds like a good idea
+  feel like + 动名词 = would like 想要
+  
+  Example:
+      Don't taste [that food]
+  look 之后若有介词，则是短语动词，用副词修饰，而不是形容词
+      He [looked into] the case [carefully]
+      He [looked] happily [at] me
 ```
