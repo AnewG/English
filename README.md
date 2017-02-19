@@ -138,7 +138,12 @@ which to buy
        He made a kite (完全vt)
        He [made] Mary [happy] (不完全vt)
        He [let] me [in] in为介副词
-  d.v  授予动词 dative verb
+       I [think] that it is interesting to climb mountains (完全vt)
+       I think [it] fun [to climb mountains] (不完全vt, 形式宾语it, 真正宾语后置)
+       wrong: I think to climb mountains fun
+       turn xx into / change xx into
+  d.v  授予动词 dative verb，属于及物动词，但是接2个宾语。
+       第一个间接宾语(indirect object, i.o.)表授予的对象，第二个直接宾语(direct object, d.o.)表授予的东西。
   
 部分不及物动词可变为及物动词，以同系名词作其宾语。
   dream a terrible dream
