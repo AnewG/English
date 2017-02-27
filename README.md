@@ -41,6 +41,18 @@ Example:
     
 ====================
 
+感叹句：
+    1.What + n + 宾表补 + 主语 + 动词...
+    Example:
+        What a great man he is!
+    2.How + adj / How + adv + (a/an 单数名词 | 数量形容词 复数或不可数名词) + 主语 + 动词...
+    Example:
+        How great he is!
+        How great a man he is!
+        How few friends he has!
+
+====================
+
 动词绝不可直接当主语，一定要变成动名词或不定式短语，如此才可视为名词的对等语，作主语用。
 wrong: 
     See him makes me angry (See为动词)
