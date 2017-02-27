@@ -144,6 +144,8 @@ which to buy
        turn xx into / change xx into
   d.v  授予动词 dative verb，属于及物动词，但是接2个宾语。
        第一个间接宾语(indirect object, i.o.)表授予的对象，第二个直接宾语(direct object, d.o.)表授予的东西。
+       若倒置，需加介词。
+       I gave him the book. => I gave the book to him.
   
 部分不及物动词可变为及物动词，以同系名词作其宾语。
   dream a terrible dream
