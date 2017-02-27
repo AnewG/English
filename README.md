@@ -151,8 +151,13 @@ which to buy
   dream a terrible dream
   
 出现的相关时态：
-  a.主语 + 动词 + [宾语/表语]
-  Example:
+
+  a.主语 + 完全不及物动词
+    主语 + 不完全不及物动词 + 表语
+    主语 + 不完全及物动词 + 宾语 + 宾语补语
+    主语 + 完全及物动词 + 宾语
+    主语 + 授予动词 + 间接宾语(授予对象) + 直接宾语(被授予的东西)
+    Example:
       He [wrote] a book     - vt
       Something [happened]  - vi
       
