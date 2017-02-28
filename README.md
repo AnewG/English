@@ -206,3 +206,18 @@ which to buy
       He [looked into] the case [carefully]
       He [looked] happily [at] me
 ```
+
+句式：
+
+```
+
+一般疑问句（不以What,When...为首，可用Yes/No回答）
+    a. be动词，与主语倒置。
+        Example: He is nice => Is he nice?
+    b. 助动词(can,may...)，同上
+        Example: They can handle the problem => Can they handle the problem?
+    c. 其它情况，按动词时态及主语人称在句首加 Do,Does,Did..，动词改为原型。
+        Example: He left early. => Did he leave early?
+    肯定形态起首，认同问句用Yes问答。问句以否定形态起首，不认同问句用Yes回答。
+
+```
