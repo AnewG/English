@@ -220,4 +220,9 @@ which to buy
         Example: He left early. => Did he leave early?
     肯定形态起首，认同问句用Yes问答。问句以否定形态起首，不认同问句用Yes回答。
 
+特殊疑问句
+    what,when,how... ＋ 一般疑问句倒置原则
+    what,who,which三者有名词性质，可作主语。可省略主语无需倒置
+    Example:
+        Who came? What happened?
 ```
