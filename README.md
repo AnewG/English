@@ -238,4 +238,13 @@ not just...but also
 as well as...          => 以及...（动词随第一个主语变化）
 rather than...         => 而非...（动词随第一个主语变化）
 其余的动词随最近的主语做单复数变化
+
+If
+Once
+As soon as + 一般现在时(或现在完成时)动词，主语 + will + 动词原型
+Unless
+When
+Example:
+    When I will be rich,I will buy a car (wrong)
+    When I am rich, I will buy a car     (correct)
 ```
