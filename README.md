@@ -247,4 +247,14 @@ When
 Example:
     When I will be rich,I will buy a car (wrong)
     When I am rich, I will buy a car     (correct)
+    
+关系代词，有连词功能，引导定语从句 (who,whom. which)。
+关系代词在从句中作主语，或动词的宾语。若都不满足，则在其前加介词，或将介词移至句尾。
+Example:
+He is a man [who] always means what he says => 代替 a man
+He is a boy [whom] everyone loves => whom[宾格]作loves的宾语
+That's the book [which] I like
+He is a man [for] [whom] I enjoy working
+The house [in] [which] we live is very large
+The house [which] we live [in] is very large
 ```
