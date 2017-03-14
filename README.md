@@ -225,7 +225,9 @@ which to buy
     what,who,which三者有名词性质，可作主语。可省略主语无需倒置
     Example:
         Who came? What happened?
-        
+
+====================
+
 句间连接词：
 both...and...          => 一方面...同时也...（接复数动词）
 either...or...         => 要不就是...要不就是...
@@ -257,4 +259,17 @@ That's the book [which] I like
 He is a man [for] [whom] I enjoy working
 The house [in] [which] we live is very large
 The house [which] we live [in] is very large
+xxxxxxx, which somewhat surprised me. => which 代替整个句子时,加逗号
+
+====================
+
+非限制性定语从句：
+    含有专有,修饰性或独一性名词的主语 , 关系代词 + 定语从句(此时为非限制性定语从句)
+    Example:
+        That's [my only son], who is attending college now. 
+
+限制性定语从句：
+    未具特殊性...... 先译定语从句，再译主语
+    Example:
+        He is a boy [who] works hard. => 他是位很用功的男孩
 ```
