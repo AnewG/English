@@ -249,7 +249,9 @@ When
 Example:
     When I will be rich,I will buy a car (wrong)
     When I am rich, I will buy a car     (correct)
-    
+
+====================
+
 关系代词，有连词功能，引导定语从句 (who,whom. which)。
 关系代词在从句中作主语，或动词的宾语。若都不满足，则在其前加介词，或将介词移至句尾。
 Example:
@@ -261,8 +263,6 @@ The house [in] [which] we live is very large
 The house [which] we live [in] is very large
 xxxxxxx, which somewhat surprised me. => which 代替整个句子时,加逗号
 
-====================
-
 非限制性定语从句：
     含有专有,修饰性或独一性名词的主语 , 关系代词 + 定语从句(此时为非限制性定语从句)
     Example:
@@ -272,4 +272,13 @@ xxxxxxx, which somewhat surprised me. => which 代替整个句子时,加逗号
     未具特殊性...... 先译定语从句，再译主语
     Example:
         He is a boy [who] works hard. => 他是位很用功的男孩
+        
+that也可做关系代词，前不可加介词。
+以下情况只能用that当作关系代词
+a. the [first|second..last] ... that
+b. the [best|most] ... that
+c. all 之后
+d. the only ... that
+e. 2个关系代词
+f. 多个性质不同名词共用一个关系代词
 ```
