@@ -267,11 +267,14 @@ xxxxxxx, which somewhat surprised me. => which 代替整个句子时,加逗号
     含有专有,修饰性或独一性名词的主语 , 关系代词 + 定语从句(此时为非限制性定语从句)
     Example:
         That's [my only son], who is attending college now. 
-
+    不可简化为分词短语
 限制性定语从句：
     未具特殊性...... 先译定语从句，再译主语
     Example:
         He is a boy [who] works hard. => 他是位很用功的男孩
+    简化分词短语：
+        The girl [who] danced here yesterday is my sister
+        The girl [dancing] here yesterday is my sister
         
 that也可做关系代词，前不可加介词。
 以下情况只能用that当作关系代词
