@@ -284,4 +284,16 @@ c. all 之后
 d. the only ... that
 e. 2个关系代词
 f. 多个性质不同名词共用一个关系代词
+
+====================
+
+关系副词：
+where
+    = in which,on which,at which 地点in,on,at
+when
+    = in which,on which,at which 时间in,on,at
+why
+    = for which
+how
+    = in which
 ```
