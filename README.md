@@ -296,4 +296,20 @@ why
     = for which
 how
     = in which
+    
+====================
+
+复合关系代词
+    whoever:
+        Whoever makes such a mistake should be punished = [Anybody] [who makes such a mistake] should be punished
+    whomever(宾语):
+        Give it to whomever you like = Give it to [anybody] [whom you like]
+        
+====================
+
+准关系代词
+than,as,but
+Example:
+    He is a better student [than] you are
+    I don't like such a man [as] tells lies
 ```
