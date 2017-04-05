@@ -312,4 +312,14 @@ than,as,but
 Example:
     He is a better student [than] you are
     I don't like such a man [as] tells lies
+    
+====================
+
+非谓语动词（可作名词，形容词，副词等）：
+    1.不定式
+    2.分词，现在分词 studying，过去分词 studied
+        Example: 
+            He is studying
+    3.动名词
+    
 ```
