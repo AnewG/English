@@ -322,4 +322,9 @@ Example:
             He is studying
     3.动名词
     
+====================
+
+下列句型中，be动词之后的to可省略，改接原型动词作表语
+    Example:
+        [All you have to do] is (to) [take a good rest]
 ```
