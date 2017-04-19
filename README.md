@@ -327,4 +327,14 @@ Example:
 下列句型中，be动词之后的to可省略，改接原型动词作表语
     Example:
         [All you have to do] is (to) [take a good rest]
+        
+====================
+
+that从句简化为不定式：
+    1.单一动词：
+        [It] [seems] that he works hard = He [seems] to work hard
+    2.be + 过去分词
+        It is (said|reported|rumored) that he is good = He is (said|reported|rumored) to be good
+    3.时态不同
+        It [seems] that he [worked] hard = He seems to [have worked] hard
 ```
