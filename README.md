@@ -1,5 +1,37 @@
 English
 
+# 英标
+
+æ  ['æpl] apple
+b  [bæd] bad
+k  [kæt] cat
+d  [dɔɡ] dog
+ɛ  ['ɛlɪfənt] elephant
+f  [fʌk] fuck
+g  [ɡlæs] glass
+h  [haʊs] house
+l  [lɔntʃ] (l)aunch
+l  [bɪl] bil(l)
+dʒ ['dʒʌstɪs] justice
+k  [kaɪnd] kind
+m  [mel] (m)ail
+m  ['stedɪəm] stadiu(m)
+n  ['neʃən] (n)ation
+n  [pə'zɪʃən] positio(n)
+a  [ɑd] odd
+p  [pɪk] pick
+kw ['kwɛstʃən] question
+r  [rɪˈzjuːm] (r)esume
+r  [ɪr] ea(r)
+s  [stek] stake
+t  [tɝm] term
+ʌ  [ʌp] up
+v  [vest] vest
+w  [wɛst] west
+ks [sɛks] sex
+j  [jist] yeast
+z  [zu] zoo
+
 # 词根
 
 ```
