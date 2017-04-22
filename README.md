@@ -2,6 +2,7 @@ English
 
 # 英标
 
+```
 æ  ['æpl] apple
 b  [bæd] bad
 k  [kæt] cat
@@ -31,6 +32,7 @@ w  [wɛst] west
 ks [sɛks] sex
 j  [jist] yeast
 z  [zu] zoo
+```
 
 # 词根
 
