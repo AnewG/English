@@ -13,6 +13,7 @@ g  [ɡlæs] glass
 h  [haʊs] house
 l  [lɔntʃ] (l)aunch
 l  [bɪl] bil(l)
+ɪ  [bɪl] b(i)ll
 dʒ ['dʒʌstɪs] justice
 k  [kaɪnd] kind
 m  [mel] (m)ail
