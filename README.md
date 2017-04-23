@@ -35,6 +35,17 @@ j  [jist] yeast
 z  [zu] zoo
 ```
 
+```
+元音字母(母) 元音      辅音字母(子)
+Aa         [ei]     Hh Jj Kk
+Ee         [i:]     Bb Cc Dd Gg Pp Tt Vv
+Ii         [ai]     Yy
+Oo         [əu]  　
+Uu         [(j)u:]  Qq Ww
+           [e]      Ff Ll Mm Nn Ss Xx Zz
+           [a:]     Rr
+```
+
 # 词根
 
 ```
