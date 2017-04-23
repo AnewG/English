@@ -36,6 +36,9 @@ z  [zu] zoo
 ```
 
 ```
+
+元音字母不止一种读音，还包括上表
+
 元音字母(母) 元音      辅音字母(子)
 Aa         [ei]     Hh Jj Kk
 Ee         [i:]     Bb Cc Dd Gg Pp Tt Vv
