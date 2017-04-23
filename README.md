@@ -33,20 +33,36 @@ w  [wɛst] west
 ks [sɛks] sex
 j  [jist] yeast
 z  [zu] zoo
-```
 
-```
+元音字母(aeiou)不止一种读音，除本身字母音外还包括上表。辅音有元音衍生
 
-元音字母不止一种读音，还包括上表
+元音字母(母) 元音
+Aa         [e/ei]
+Ee         [i:]
+Ii         [ai]
+Oo         [əu/o]  　
+Uu         [ju:]
 
-元音字母(母) 元音      辅音字母(子)
-Aa         [ei]     Hh Jj Kk
-Ee         [i:]     Bb Cc Dd Gg Pp Tt Vv
-Ii         [ai]     Yy
-Oo         [əu]  　
-Uu         [(j)u:]  Qq Ww
-           [e]      Ff Ll Mm Nn Ss Xx Zz
-           [a:]     Rr
+规则一 :
+
+aeiou单子出现多次，先出现的元音重音节(发本身字母音)，后出现轻发音或不发音
+
+规则二:
+
+ar,er,ir,or,ur 
+
+w(or)k(er) ['wɜːkə] 第一次出现 ɜ， 第二次出现 ə
+
+规则三:
+
+oo              [bʊk]    book    ʊ
+au, ou, aw, ow  [haʊs]   house   aʊ
+th              [θæŋk]   thank   θ
+ch              [tʃiːf]  chief   tʃ
+sh              [ʃel]    shell   ʃ
+ph              [fon]    phone   f
+ng              [ɪŋɡlɪʃ] english ŋ/ŋɡ
+nk              ['æŋkl]  ankle   ŋk 
 ```
 
 # 词根
