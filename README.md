@@ -404,4 +404,10 @@ that从句简化为不定式：
         It is (said|reported|rumored) that he is good = He is (said|reported|rumored) to be good
     3.时态不同
         It [seems] that he [worked] hard = He seems to [have worked] hard
+====================
+
+I [would have] done(过去分词) it,but I was busy. = I [intended/expected... to] have done(过去分词) it,...
+I [would have] done(过去分词) it,but I was busy. = I [had intended/expected... to] do(动词原型) it,...
+I［was to have] done it,but .... = I [should have] done it,but ....
+
 ```
