@@ -411,3 +411,17 @@ I [would have] done(过去分词) it,but I was busy. = I [had intended/expected.
 I［was to have] done it,but .... = I [should have] done it,but ....
 
 ```
+
+分词
+
+```
+
+现在分词: doing
+         完成时: having done
+         被动式: being done
+         完成进行时: having been doing
+         完成被动式: having been done
+
+过去分词: done
+
+```
