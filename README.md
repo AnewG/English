@@ -424,4 +424,13 @@ I［was to have] done it,but .... = I [should have] done it,but ....
 
 过去分词: done
 
+1.分词作形容词用
+  Example:
+    The student raised a [confusing] question  表主动
+
+2.分词作表语用
+  Example:
+    The teacher was [confused]  表被动
+    I found him [trembling]   不及物动词用现在分词形式
+
 ```
