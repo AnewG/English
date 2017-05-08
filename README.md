@@ -432,5 +432,9 @@ I［was to have] done it,but .... = I [should have] done it,but ....
   Example:
     The teacher was [confused]  表被动
     I found him [trembling]   不及物动词用现在分词形式
+    
+3.分词可作名词用
+4.分词可作副词用
+    Example: It's [freezing] cold today
 
 ```
