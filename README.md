@@ -436,5 +436,13 @@ I［was to have] done it,but .... = I [should have] done it,but ....
 3.分词可作名词用
 4.分词可作副词用
     Example: It's [freezing] cold today
+    
+5.两个动词同时发生，第二个为现在分词。是 be 动词，则变 being 之后再省略
+    He came home [crying]
+    He sat in the corner [reading] a newspaper
+    He came home [was] tired => He came home [being] tired => He came home tired
+
+6.若两个后先后次序发生，第二个为 "to + 动词原型"
+    He came here [saw] me => He came here [to see me]
 
 ```
