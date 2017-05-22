@@ -416,6 +416,8 @@ I［was to have] done it,but .... = I [should have] done it,but ....
 
 ```
 
+分词就是具有动词及形容词二者特征的词
+
 现在分词: doing
          完成时: having done
          被动式: being done
@@ -444,5 +446,8 @@ I［was to have] done it,but .... = I [should have] done it,but ....
 
 6.若两个后先后次序发生，第二个为 "to + 动词原型"
     He came here [saw] me => He came here [to see me]
+
+7.两个动词有逗号间隔，且无连接时，第二个一定是现在分词
+    He ran away quickly, looking as if something terrible had happened
 
 ```
