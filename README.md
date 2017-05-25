@@ -449,5 +449,11 @@ I［was to have] done it,but .... = I [should have] done it,but ....
 
 7.两个动词有逗号间隔，且无连接时，第二个一定是现在分词
     He ran away quickly, looking as if something terrible had happened
+    
+8.表身体组织的名词可变为过去分词当形容词用
+    I love the [big-eyed] girl
+
+9.某些独立分词短语具有副词功能，通常置于句首，修饰整个句子
+    [Generally speaking], men are physically stronger than women
 
 ```
