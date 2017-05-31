@@ -457,3 +457,23 @@ I［was to have] done it,but .... = I [should have] done it,but ....
     [Generally speaking], men are physically stronger than women
 
 ```
+
+动名词
+
+```
+
+形态跟现在分词一样
+
+可作主语：
+
+[Working] with him is fun
+
+若是及物动词后的宾语为复数形式，该动名词短语仍然视为单数
+
+[Helping others] (gives) me great pleasure
+
+或者
+
+[It](形式主语) gives me great pleasure to [help others](真正主语)
+
+```
