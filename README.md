@@ -476,4 +476,14 @@ I［was to have] done it,but .... = I [should have] done it,but ....
 
 [It](形式主语) gives me great pleasure to [help others](真正主语)
 
+可作be动词后的表语:
+
+Seeing is believing
+
+His hobby is collecting stamps
+
+可作动词的宾语:
+
+He detests gambling
+
 ```
