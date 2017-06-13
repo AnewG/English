@@ -486,4 +486,13 @@ His hobby is collecting stamps
 
 He detests gambling
 
+可作介词的宾语：
+
+He is fond [of] [taking] a walk
+
+可与名词连用，形成复合名词
+
+a sleeping car 卧铺
+a dining room 饭厅
+
 ```
