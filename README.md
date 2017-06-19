@@ -494,4 +494,14 @@ He is fond [of] [taking] a walk
 a sleeping car 卧铺
 a dining room 饭厅
 
+常用的动名词惯用语：
+
+There is no V-ing ... = It is impossible to V
+
+It is no use V-ing ... = It is of no use to V
+
+cannot (help|stop|resist|refraim from) V-ing
+
+on V-ing ... = 一...就...
+
 ```
