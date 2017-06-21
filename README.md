@@ -505,3 +505,26 @@ cannot (help|stop|resist|refraim from) V-ing
 on V-ing ... = 一...就...
 
 ```
+
+助动词
+
+```
+
+加强说明动词
+
+I [must] go at once
+
+1.be 动词作助动词的情况
+
+He [is] reading(现在分词) a book     进行时
+He [was] elected(过去分词) chairman  被动语态
+
+2.have,has,had + 过去分词            已经...
+
+3.do,does,did + not + 动词原型, 任何东西与not连用作否定时，一定要这类助动词。但不与 not 以外的否定副词连用
+
+I [didn't know] what to do
+[Did] you [understand] it ?
+He [did] work hard , [Do] be quiet  表强调
+
+```
