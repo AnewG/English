@@ -527,4 +527,8 @@ I [didn't know] what to do
 [Did] you [understand] it ?
 He [did] work hard , [Do] be quiet  表强调
 
+4.代动词(pro-verb),代替动词 
+
+Did you read this book? -> Yes, I did (= read this book)
+
 ```
