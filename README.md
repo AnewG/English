@@ -542,4 +542,9 @@ should have + 过去分词
 
 7.would  will的过去式
 
+He [said](一般过去时) that he [will visit](一般将来时) the country sometime in July
+
+If I had money now, I [would] buy a car. (But I don't have money now) 与现在事实相反
+If I had had money then, I [would have] bought a car. (But I didn't have money then) 与过去事实相反
+
 ```
