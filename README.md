@@ -547,4 +547,13 @@ He [said](一般过去时) that he [will visit](一般将来时) the country som
 If I had money now, I [would] buy a car. (But I don't have money now) 与现在事实相反
 If I had had money then, I [would have] bought a car. (But I didn't have money then) 与过去事实相反
 
+8.would rather
+
+9.would you mind
+
+10.can,could
+
+11.would,could 可表客气语气
+[Could] you please do it for me?
+
 ```
