@@ -538,7 +538,7 @@ Did you read this book? -> Yes, I did (= read this book)
 should have + 过去分词
 
 1.与事实相反的虚拟语气(早应...): If you had not helped me, I [should have died]
-2.居然已经: It is surprising that he [should have passed] the examiniation
+2.居然已经,应当已经: It is surprising that he [should have passed] the examiniation
 
 7.would  will的过去式
 
