@@ -561,5 +561,22 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
 时态及语态
 
 ```
-test
+
+时态:
+    一般时:
+        一般现在时: He [writes] a letter every day.
+        一般过去时: He [wrote] a letter yesterday.
+        一般将来时: He [will write] a letter tomorrow.
+    完成时:
+        现在完成时: He [has written] the letter. 他已经写好这封信
+        过去完成时: He [had written] the letter when I came. 我回来时他早就把信写好了
+        将来完成时: He [will have written] the letter before I come. 我回来之前他就会把信写好
+    进行时:
+        现在进行时: He [is writing] a letter now.
+        过去进行时: He [was writing] a letter when I came. 我来时他正在写信
+        将来进行时: He [will be writing] a letter when I come 我来时他将正在写信
+    完成进行时:
+        现在完成进行时: He [has been writing] a letter for two hours. 他已经写信写了2小时
+        过去完成进行时: When I called, he [had been writing] a letter for two hours. 我打电话来时他已经持续写了2小时信
+
 ```
