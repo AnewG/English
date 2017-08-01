@@ -565,8 +565,16 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
 时态:
     一般时:
         一般现在时: He [writes] a letter every day.
+            常表示知觉，状态与习惯性动作，真理事实等
+            特殊：begin, start, arrive, leave, come, go, 等动词可用一般现在时表将来。
         一般过去时: He [wrote] a letter yesterday.
+            常表过去的动作，状态。
+            特殊：若有 after, until, before 等连词引导的从句，由于时间关系清楚，可用一般过去时代替过去完成时
         一般将来时: He [will write] a letter tomorrow.
+                  He [is going to] come = He [will] come  // be going to do
+            常表将来发生的动作或状态。
+            特殊：由连词 when, unless, if, once 引导的状语从句表某条件时，一定用一般现在时，主语一般将来时。
+            When I [have] money, I [will buy] a car.
     完成时:
         现在完成时: He [has written] the letter. 他已经写好这封信
         过去完成时: He [had written] the letter when I came. 我回来时他早就把信写好了
