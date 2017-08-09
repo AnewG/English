@@ -577,7 +577,10 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
             When I [have] money, I [will buy] a car.
     完成时:
         现在完成时: He [has written] the letter. 他已经写好这封信
+            表已经或曾经，也可以表示到目前为止还在继续
+            She [has lived] here for 10 years
         过去完成时: He [had written] the letter when I came. 我回来时他早就把信写好了
+            表到过去某时为止：He [had studied] English for 10 years [before he left for the States]
         将来完成时: He [will have written] the letter before I come. 我回来之前他就会把信写好
     进行时:
         现在进行时: He [is writing] a letter now.
