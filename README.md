@@ -582,12 +582,20 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
         过去完成时: He [had written] the letter when I came. 我回来时他早就把信写好了
             表到过去某时为止：He [had studied] English for 10 years [before he left for the States]
         将来完成时: He [will have written] the letter before I come. 我回来之前他就会把信写好
+            表到将来某时已完成或还在继续
     进行时:
         现在进行时: He [is writing] a letter now.
+            表现在正在做或即将发生
         过去进行时: He [was writing] a letter when I came. 我来时他正在写信
+            表示过去某时正在做某事或即将发生某事
         将来进行时: He [will be writing] a letter when I come 我来时他将正在写信
+            表示将来某时将进行的动作
     完成进行时:
         现在完成进行时: He [has been writing] a letter for two hours. 他已经写信写了2小时
+            表一直继续到现在且将继续下去的动作 
         过去完成进行时: When I called, he [had been writing] a letter for two hours. 我打电话来时他已经持续写了2小时信
+            表一直继续到过去某时，当时仍然在继续进行
+        将来完成进行时：[I will have been teaching] English for ten years by the end of this year
+            表一直继续到将来某时，而仍然继续进行的动作
 
 ```
