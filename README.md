@@ -598,4 +598,30 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
         将来完成进行时：[I will have been teaching] English for ten years by the end of this year
             表一直继续到将来某时，而仍然继续进行的动作
 
+语态：
+    主动语态：I [did] the work
+    被动语态：The work [was done] by me
+    
+    主动转被动：原局宾语作主语，接be动词+过去分词 
+        Everyone loves him
+        He is loved by everyone
+        
+    一般：
+      现在：He does it(主) <-> It is done by him(客)
+      过去：He did it <-> It was done by him
+      将来：He will do it <-> It will be done by him
+    完成：
+      现在：He has done it(主) <-> It has been done by him(客)
+      过去：He had done it <-> It had been done by him
+      将来：He will have done it <-> It will have been done by him
+    进行：
+      现在：He is doing it(主) <-> It is being done by him(客)
+      过去：He was doing it <-> It was being done by him
+      将来：He will be doing it <-> 无
+```
+
+虚拟语气:
+
+```
+表假设状态的句型：
 ```
