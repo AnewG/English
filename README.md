@@ -624,4 +624,14 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
 
 ```
 表假设状态的句型：
+
+1.纯条件的虚拟语气（现在时）
+    If he [is] here, I [will beat] him
+    只求条件满足，与时间无关。If + 主语 + 一般现在时动词, 主语 + 助动词 + 原型动词
+2.与现在事实相反的虚拟语气（过去时）
+    If he [were] here, I [would beat] him (But he is not here)
+3.与过去事实相反的虚拟语气（过去完成时）
+    If he [had been] here, I [would have beaten] him (But he was not here)
+4.与将来事实相反的虚拟语气
+    If he [should] be here, I [would] beat him
 ```
