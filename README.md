@@ -635,3 +635,9 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
 4.与将来事实相反的虚拟语气
     If he [should] be here, I [would] beat him
 ```
+
+副词
+
+```
+
+```
