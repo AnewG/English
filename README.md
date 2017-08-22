@@ -639,5 +639,18 @@ If I had had money then, I [would have] bought a car. (But I didn't have money t
 副词
 
 ```
+1. -ly 形成的副词
+slow -> slowly
+main -> mainly
 
+2. 特殊副词
+very, ago, hard, enough, never, somewhat, somehow
+good and => It's [good and] hot today 非常热
+
+3. 一些现在分词作副词用，专门修饰形容词
+It's [biting] [cold] today
+It's [boiling] [hot] today
+
+4.形容词本身当副词
+His writing is [awful]
 ```
