@@ -653,4 +653,10 @@ It's [boiling] [hot] today
 
 4.形容词本身当副词
 His writing is [awful]
+
+副词的功能：
+1.修饰动词（常在动词之后）He studies [hard]
+2.修饰形容词（常在形容词之前）He is [very] kind
+3.修饰副词（常置于之前）He studies [very] diligently
+4.修饰全局（常在句首）[Fortunately], he did not die
 ```
