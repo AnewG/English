@@ -659,4 +659,8 @@ His writing is [awful]
 2.修饰形容词（常在形容词之前）He is [very] kind
 3.修饰副词（常置于之前）He studies [very] diligently
 4.修饰全局（常在句首）[Fortunately], he did not die
+
+副词的位置：
+1.be，助动词之后
+2.一般动词之前([often] go), 若副词表示某种状态则在之后(dances [beautifully])
 ```
