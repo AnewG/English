@@ -663,4 +663,14 @@ His writing is [awful]
 副词的位置：
 1.be，助动词之后
 2.一般动词之前([often] go), 若副词表示某种状态则在之后(dances [beautifully])
+3.时间副词(yesterday...), 长句放句首，短句放句尾 I saw him yesterday - In 1914,.....
+4.地点副词(in,up...) 动词之后 He came in
+5.副词对等语(两个以上单词构成的短语或从句)，可句首可句尾 He [loves] her [with all his heart]
+副词尽量靠近要修饰的动词
+```
+
+倒装
+
+```
+test
 ```
