@@ -672,5 +672,26 @@ His writing is [awful]
 倒装
 
 ```
-test
+英语特有句型，主要用于强调语气
+
+1.否定倒装句
+I [have never] seen such a pretty girl as she(is) = 
+[Never have] I seen such a pretty girl as she
+
+2.so/such 倒装
+She [is] [so kind] the she deserves all my respect = 
+[So kind] [is] she that she deserves all my respect
+
+3.地点副词倒装
+A boy [stood] [there] = 
+[There] [stood] a boy
+
+4.完全倒装
+[Those] who help others [are praiseworthy] = 
+[Praiseworthy are those] who help others
+
+5.as 取代 though
+[Though] he [is nice], I dislike him = 
+[Nice] [as] he is, I dislike him = 
+[As nice as] he is, I dislike him
 ```
