@@ -674,7 +674,7 @@ His writing is [awful]
 ```
 英语特有句型，主要用于强调语气
 
-1.否定倒装句
+1.否定倒装句（否定词前置句首，有be动词或助动词的话要与主语倒装，其它一般动词前加do,does,did，动词变原型）
 I [have never] seen such a pretty girl as she(is) = 
 [Never have] I seen such a pretty girl as she
 
