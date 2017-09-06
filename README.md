@@ -678,7 +678,7 @@ His writing is [awful]
 I [have never] seen such a pretty girl as she(is) = 
 [Never have] I seen such a pretty girl as she
 
-2.so/such 倒装
+2.so/such 倒装，规则同上
 She [is] [so kind] the she deserves all my respect = 
 [So kind] [is] she that she deserves all my respect
 
