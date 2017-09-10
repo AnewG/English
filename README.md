@@ -682,9 +682,11 @@ I [have never] seen such a pretty girl as she(is) =
 She [is] [so kind] the she deserves all my respect = 
 [So kind] [is] she that she deserves all my respect
 
-3.地点副词倒装
+3.地点副词倒装（此类倒装句中主语一定是普通名词或专有名词）
 A boy [stood] [there] = 
 [There] [stood] a boy
+A girl [is] [singing](现在分词) [over there] = 
+[Singing] [over there] [is] A girl, who is ...
 
 4.完全倒装
 [Those] who help others [are praiseworthy] = 
@@ -694,4 +696,10 @@ A boy [stood] [there] =
 [Though] he [is nice], I dislike him = 
 [Nice] [as] he is, I dislike him = 
 [As nice as] he is, I dislike him
+```
+
+比较结构
+
+```
+test
 ```
