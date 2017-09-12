@@ -701,5 +701,9 @@ A girl [is] [singing](现在分词) [over there] =
 比较结构
 
 ```
-test
+造句方式：
+1.一个含有形容词或副词的句子
+2.将形容词或副词变为比较级
+3.再将比较对象置于than之后
+He is prudent -> He is [more] prudent -> He is [more] prudent [than] [Peter]
 ```
