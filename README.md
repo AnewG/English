@@ -706,4 +706,10 @@ A girl [is] [singing](现在分词) [over there] =
 2.将形容词或副词变为比较级
 3.再将比较对象置于than之后
 He is prudent -> He is [more] prudent -> He is [more] prudent [than] [Peter]
+
+绝大多数三音节以上的副词或形容词被more修饰时，均保留原级形态。
+双音节的不规则变化(more或词尾)，单音节的几乎采用词尾变化少用more修饰
+1.She is [more] [beautiful] than Mary
+2.He is [more] [prudent] then Peter. He is [cleverer] than Peter
+3.He runs [faster] than Peter
 ```
