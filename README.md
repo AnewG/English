@@ -712,4 +712,15 @@ He is prudent -> He is [more] prudent -> He is [more] prudent [than] [Peter]
 1.She is [more] [beautiful] than Mary
 2.He is [more] [prudent] then Peter. He is [cleverer] than Peter
 3.He runs [faster] than Peter
+
+最高级的比较对象一定是三者以上：
+[Of the five] books, I [like] that one [best]
+最高级修饰名词须加the:
+He is [the best] [student] of all
+```
+
+代词
+
+```
+test
 ```
