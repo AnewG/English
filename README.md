@@ -722,5 +722,11 @@ He is [the best] [student] of all
 代词
 
 ```
-test
+数量代词：
+most/all/some/half/part/none
+
+人称代词：
+第一人称：I/We[主格]      my/our[形容词性物主代词,后加名词] me/us[宾格] mine/ours[名词性物主代词,后不加名词] myself/ourselves[反身代词]
+第二人称：you/you        your/your                      you/you    yours/yours                      yourself/yourselves
+第三人称：he/she/it/they his/her/its/their        his/her/it/them  his/hers/its/theirs       himself/herself/itself/themselves
 ```
