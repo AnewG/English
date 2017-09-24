@@ -729,4 +729,27 @@ most/all/some/half/part/none
 第一人称：I/We[主格]      my/our[形容词性物主代词,后加名词] me/us[宾格] mine/ours[名词性物主代词,后不加名词] myself/ourselves[反身代词]
 第二人称：you/you        your/your                      you/you    yours/yours                      yourself/yourselves
 第三人称：he/she/it/they his/her/its/their        his/her/it/them  his/hers/its/theirs       himself/herself/itself/themselves
+
+each other(两者彼此)
+one another(三者或以上彼此)
+
+one after the other(两者相继)
+one after another(三者或以上相继)
+
+either(两者中任一)
+any(三者或以上任一)
+
+neither(两者皆不)
+none(三者或以上皆不)
+
+one...the other... 一个...另一个(限定是谁)
+one...another... 一个...另一个(非限定)
+one...another...the other  一个...一个...另一个
+some...others...still others...  一些...一些...另一些...
+```
+
+复合形容词
+
+```
+test
 ```
